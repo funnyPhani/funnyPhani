@@ -4,7 +4,7 @@
 
 ### I'm a passionate technologist with a focus on:
 - **Generative AI** 🤖: Creating models that produce unique content and solutions.
-- **Machine Learning and Deep Learning** 📊🧠: Delving into the development and optimization of algorithms that allow machines to learn from data, make predictions, and uncover patterns. My expertise ranges from building simple predictive models to designing deep neural networks that solve complex problems across industries. 
+- **Machine Learning and Deep Learning** 📊🧠: Delving into the development and optimization of algorithms that allow machines to learn from data, make predictions, and uncover patterns. My expertise ranges from building  predictive models to designing deep neural networks that solve complex problems across industries. 
 - **Computer Vision** 🖼️: Exploring innovative ways to interpret and analyze visual data.
 - **Natural Language Processing** 🗣️: Developing systems that understand and generate human language.
 - **MLOps** ⚙️📈: Applying DevOps principles to machine learning to streamline model development and deployment.
