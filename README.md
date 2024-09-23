@@ -8,6 +8,7 @@
 - **Computer Vision** 🖼️: Exploring innovative ways to interpret and analyze visual data.
 - **Natural Language Processing** 🗣️: Developing systems that understand and generate human language.
 - **MLOps** ⚙️📈: Applying DevOps principles to machine learning to streamline model development and deployment.
+- LLMOps (Large Language Model Operations) ⚙️📚: Specializing in the deployment, monitoring, and optimization of large language models (LLMs) in production environments. I focus on fine-tuning, scaling, and ensuring the efficient, secure, and responsible use of LLMs, incorporating tools and processes that streamline everything from model training to real-time inference, with an emphasis on governance, cost-efficiency, and continual improvement.
   
 
 
