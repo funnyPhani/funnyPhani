@@ -6,8 +6,8 @@
 - **Computer Vision** 🖼️: Exploring innovative ways to interpret and analyze visual data.
 - **Natural Language Processing** 🗣️: Developing systems that understand and generate human language.
 - **Generative AI** 🤖: Creating models that produce unique content and solutions.
-- **Robotics** 🤖🔧: Merging software and hardware to build intelligent machines.
 - **MLOps** ⚙️📈: Applying DevOps principles to machine learning to streamline model development and deployment.
+- **Machine Learning and Deep Learning**
 
 
 
