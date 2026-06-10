@@ -1,105 +1,111 @@
+# Hi there, I'm Dr. Phani Siginamsetty 👋
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Phani Kumar</h1>
-
-### I'm a passionate technologist with a focus on:
-- **Generative AI** 🤖: Creating models that produce unique content and solutions.
-- **Machine Learning and Deep Learning** 📊🧠: Delving into the development and optimization of algorithms that allow machines to learn from data, make predictions, and uncover patterns. My expertise ranges from building  predictive models to designing deep neural networks that solve complex problems across industries. 
-- **Computer Vision** 🖼️: Exploring innovative ways to interpret and analyze visual data.
-- **Natural Language Processing** 🗣️: Developing systems that understand and generate human language.
-- **MLOps** ⚙️📈: Applying DevOps principles to machine learning to streamline model development and deployment.
-- LLMOps (Large Language Model Operations) ⚙️📚: Specializing in the deployment, monitoring, and optimization of large language models (LLMs) in production environments. I focus on fine-tuning, scaling, and ensuring the efficient, secure, and responsible use of LLMs, incorporating tools and processes that streamline everything from model training to real-time inference, with an emphasis on governance, cost-efficiency, and continual improvement.
-  
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left">  </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
-<p align="left">  
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://heroku.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
-    </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/phani-kumar-630613101/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  <a href="https://github.com/phanikumar96" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/phaniku32563480" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:siginamsettyphani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+### 🛠️ Associate Data Scientist @ Hexware Technologies | Ph.D. in Computer Science & Engineering
 
+I am an Associate Data Scientist and PhD Researcher specializing in **Generative AI**, **Machine Learning**, and **autonomous Multi-Agent Systems**. My work focuses on bridging academic research with high-impact enterprise solutions, specifically orchestration frameworks where autonomous agents execute complex workflows. I have deep expertise in end-to-end LLM lifecycle management, custom RAG pipelines, fine-tuning (PEFT/LoRA), and quantized edge deployments.
 
-<!-- <hr>
+---
 
-<p><img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;154299027_702927223737487_3316660563751783251_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;EB4ZbXhG1MIAX_X7uls&amp;oh&#x3D;0f1962630e688514ffc312a6ef83d313&amp;oe&#x3D;60688FC2" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;152823526_174537657553375_254380529862366324_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;O6xxL36t11IAX8-25ur&amp;oh&#x3D;6c28c16b56aa43f5bcd0a5cc9384ec28&amp;oe&#x3D;60411750" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c149.0.781.781a&#x2F;s640x640&#x2F;152013126_4328412427197138_5736411879368288581_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;8f2IpAlp_OMAX_1scup&amp;oh&#x3D;e58960d73dbe0e8dd5ec0b79bfdadd83&amp;oe&#x3D;6066A23D" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/c17hawke/" target="_blank"><br>@c17hawke!</a> on Instagram</p>
+### 🚀 Technical Skills & Toolkit
 
-<hr> -->
+#### 🤖 GenAI, Agents & LLM Ops
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Llama_3.2-040A15?style=flat-square&logo=meta&logoColor=white" alt="Llama" />
+  <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-4o" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Fine--Tuning_(PEFT/QLoRA)-FF6F61?style=flat-square" alt="Fine Tuning" />
+  <img src="https://img.shields.io/badge/Quantization_(GGUF/AWQ)-4A90E2?style=flat-square" alt="Quantization" />
+</p>
 
-#### You can also find me on- 
+#### 🧠 Machine Learning & Vision AI
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-00A86B?style=flat-square" alt="RL" />
+  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a>
+  <img src="https://img.shields.io/badge/XGBoost-1E88E5?style=flat-square" alt="XGBoost" />
+</p>
 
-[<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="c17hawke | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+#### ⚙️ Backend, Cloud & MLOps
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+</p>
 
-<br>
+#### 🗄️ Databases & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Pinecone_DB-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A24?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
-<hr>
+---
 
-[linkedin]: https://www.linkedin.com/in/phani-kumar-630613101/
-[twitter]: https://x.com/phaniku32563480
-[Instagram]: https://www.instagram.com/funny_p_h_a_n_i
+### 💼 Professional Timeline
 
+*   **Hexware Technologies** | *Associate Data Scientist* (March 2025 – Present)
+    *   Developing real-time, stateful multi-agent systems via Agno and LangGraph.
+    *   Architecting advanced RAG solutions, semantic routing engines, and enterprise automation pipelines.
+*   **Volvo Group** | *Research Assistant* (June 2024 – March 2025)
+    *   Conducted research on GGUF/AWQ model quantization to deploy lightweight LLMs on vehicle hardware.
+    *   Deployed optimized CNN diagnostic pipelines for real-time computer vision component recognition.
+*   **SRM University AP** | *PhD Scholar & Data Science Researcher* (Sep 2021 – July 2024)
+    *   Designed secure clinical RAG chatbots for SRM Global Hospital.
+    *   Fine-tuned multilingual models (mT5) for low-resource Indian languages.
+    *   Researched quantum-motivated algorithms for advanced data compression.
 
+---
 
+### 📁 Featured Projects
 
+*   **SmartTutor: Multimodal RAG Learning Platform**  
+    *FastAPI | AWS Bedrock (Nova Pro & Claude 3.5) | Pinecone | AWS Polly*  
+    Built an advanced multimodal RAG pipeline parsing unstructured text, complex PDFs, and diagrams. Implemented stateful evaluation agents with real-time text-to-speech auditory feedback.
+*   **Enterprise Fraud Prevention System (Citi Bank)**  
+    *Python | Scikit-Learn | Multi-Agent Orchestration | XGBoost | AWS*  
+    Spearheaded a dual-layered risk engine merging XGBoost-driven anomaly detection with GenAI forensics. Designed "Argus," an AI data analyst using secure local parsing of sensitive financial datasets.
+*   **Automated Bank Cheque Verification System**  
+    *Computer Vision | PyTorch | AWS Textract | OpenCV*  
+    Constructed an end-to-end computer vision pipeline for layout analysis, MICR code digitization, and signature verification utilizing Siamese Neural Networks for one-shot learning.
+*   **Personalized Medical AI Assistant**  
+    *Llama 3 | Agno | LangGraph | FastAPI | MongoDB*  
+    Engineered a clinical assistant with query expansion and re-ranking, ensuring answers are grounded strictly in peer-reviewed medical literature. Implemented persistent context-retention memory.
+
+---
+
+### 📜 Patents & Publications
+
+#### 💡 Key Patents
+*   **System and method for deriving multilingual meeting minutes** (Granted - Patent No. 581292)
+*   **System and method for prediction of the strength of concrete** (Granted - Patent No. 582851)
+*   **Multimodal multilingual input summarization using quantum motivated processors** (Granted - Patent No. 66614)
+*   *And 8+ additional published patent filings in automated evaluations, healthcare decision support, and personalized content generation.*
+
+#### 📝 Featured Publications
+*   **MATSFT:** Multilingual abstractive text summarization by fine-tuning mT5 | *Alexandria Engineering Journal, Elsevier (2025)*
+*   **Clinical Diagnosis:** Improving clinical accuracy via knowledge filtering in consultation dialogues | *Computer Methods and Programs in Biomedicine, Elsevier (2024)*
+*   **MMSFT:** Multilingual Multimodal Summarization by Fine-tuning Transformers | *IEEE Access (2024)*
